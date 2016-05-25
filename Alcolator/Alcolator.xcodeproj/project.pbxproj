@@ -108,13 +108,13 @@
 				9BA0B5C11CF3A73F0060F255 /* AppDelegate.m */,
 				9BA0B5C31CF3A73F0060F255 /* ViewController.h */,
 				9BA0B5C41CF3A73F0060F255 /* ViewController.m */,
+				9B51A9E61CF52E8A0078CDA4 /* WhiskeyViewController.h */,
+				9B51A9E71CF52E8A0078CDA4 /* WhiskeyViewController.m */,
 				9BA0B5C61CF3A73F0060F255 /* Main.storyboard */,
 				9BA0B5C91CF3A73F0060F255 /* Assets.xcassets */,
 				9BA0B5CB1CF3A73F0060F255 /* LaunchScreen.storyboard */,
 				9BA0B5CE1CF3A73F0060F255 /* Info.plist */,
 				9BA0B5BD1CF3A73F0060F255 /* Supporting Files */,
-				9B51A9E61CF52E8A0078CDA4 /* WhiskeyViewController.h */,
-				9B51A9E71CF52E8A0078CDA4 /* WhiskeyViewController.m */,
 			);
 			path = Alcolator;
 			sourceTree = "<group>";
