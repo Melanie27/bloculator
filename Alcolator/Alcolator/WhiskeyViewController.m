@@ -50,6 +50,9 @@
     NSString *resultText = [NSString stringWithFormat:NSLocalizedString(@"Whiskey (%.1f %@)", nil), numberOfWhiskeyGlassesForEquivalentAlcoholAmount, whiskeyText];
     self.navigationItem.title = resultText;
     
+    //update the badge to reflect the number of wines
+    [self.tabBarItem setBadgeValue:[NSString stringWithFormat:@"%d", (int) ceilf(numberOfWhiskeyGlassesForEquivalentAlcoholAmount)]];
+    
     
 }
 
